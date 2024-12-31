@@ -59,7 +59,7 @@ Schema ID: ot05qd3z
 **Running `pynetbox` actions against our new branch**
 
 > [!TIP]
-> You can see that we need to pass a pynetbox object to activate_branch()  
+> You can see that we need to pass a `pynetbox` object to activate_branch()  
 > See `examples/example.py` for a complete example script  
 
 ```
