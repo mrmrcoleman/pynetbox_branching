@@ -130,7 +130,7 @@ pip install -r example-requirements.txt
 Run the script.
 
 ```
-python `examples/example.py`
+python examples/example.py
 
 # Output
 Waiting for branch 'new-branch-20241231181609' to become ready...
