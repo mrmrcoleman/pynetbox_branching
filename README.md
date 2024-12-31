@@ -79,7 +79,7 @@ Site Name: New Site, Slug: branch-site, ID: 588
 **Delete our branch**
 
 > [!WARNING]
-> Be very careful with `.delete(`). In the NetBox Branching GUI you are asked to confirm deletions. Here deletions are **applied directly!**  
+> Be very careful with `.delete()`. In the NetBox Branching GUI you are asked to confirm deletions. Here deletions are **applied directly!**  
 
 ```
 new_branch.delete()
