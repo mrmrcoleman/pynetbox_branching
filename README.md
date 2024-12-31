@@ -101,7 +101,7 @@ git clone https://github.com/mrmrcoleman/pynetbox_branching
 cd pynetbox_branching
 ```
 
-Create your .env file.
+Create your `.env` file.
 
 ```
 cp .env.example .env
@@ -121,7 +121,7 @@ Install `pynetbox-branching`.
 pip install -e .
 ```
 
-Install the requirements for example.py.
+Install the requirements for `example.py`.
 
 ```
 pip install -r example-requirements.txt
@@ -130,7 +130,7 @@ pip install -r example-requirements.txt
 Run the script.
 
 ```
-python examples/example.py
+python `examples/example.py`
 
 # Output
 Waiting for branch 'new-branch-20241231181609' to become ready...
