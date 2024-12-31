@@ -60,7 +60,7 @@ Schema ID: ot05qd3z
 
 > [!TIP]
 > You can see that we need to pass a `pynetbox` object to `activate_branch()`  
-> See `examples/example.py` for a complete example script  
+> See `examples/example.py` for a complete example of how this works  
 
 ```
 with new_branch.activate_branch(pynetbox=nb):
